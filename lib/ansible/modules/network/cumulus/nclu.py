@@ -20,9 +20,9 @@ author: "Cumulus Networks"
 short_description: Configure network interfaces using NCLU
 description:
     - Interface to the Network Command Line Utility, developed to make it easier
-      to configure operating systems running ifupdown2 and Quagga, such as
+      to configure operating systems running ifupdown2 and FRRouting/Quagga, such as
       Cumulus Linux. Command documentation is available at
-      U(https://docs.cumulusnetworks.com/display/DOCS/Network+Command+Line+Utility)
+      U(https://docs.cumulusnetworks.com/display/DOCS/Network+Command+Line+Utility+-+NCLU)
 options:
     commands:
         description:
